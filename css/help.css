@@ -1,0 +1,10 @@
+@charset "utf-8";
+.helparea { margin-left: auto; margin-right: auto; background-color: #FFFFFF; color: #333; font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; padding-top: 25px; padding-right: 25px; padding-bottom: 25px; padding-left: 25px; max-width: 1080px; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
+#site #container .edited { color: #818181; margin-top: -15px; font-size: 90%; }
+#site #container { padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; }
+#site #container .article { margin-top: 15px; }
+h4 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom: 1px solid #eee; }
+#site #container a:hover { color: #F77C2A; }
+#site #rightarea { float: right; min-width: 10%; margin-bottom: 6px; margin-left: 6px; max-width: 100%; }
+#site #rightarea img { width: 100%; }
+.article ul li { margin-bottom: 20px; }

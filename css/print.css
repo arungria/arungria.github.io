@@ -1,0 +1,11 @@
+@charset "utf-8";
+@media print {
+.noPrint, #header, .mainart { display: none; }
+.surePrint { display: block; }
+#wrapper { margin-top: 10px; box-shadow: none; }
+#articlewrapper { margin-top: 10px; box-shadow: none; }
+.articlewrapper { margin-top: 10px; box-shadow: none; }
+#article { box-shadow: none; }
+.helparea { box-shadow: none; }
+.downloadbox { display: none; }
+}
