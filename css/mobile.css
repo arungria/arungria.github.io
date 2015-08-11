@@ -7,6 +7,7 @@
 .helparea { width: 80%; margin-top: 90px; }
 #pagesPanel { border-top: thin dotted #999999; border-bottom: thin dotted #999999; float: right; }
 .resultsPagination { display: block; }
+h1 { font-size: 60px; }
 .topcolourtitle { padding: 20px; }
 	}
 @media only screen and (max-width: 760px) {
@@ -18,4 +19,5 @@
 .helparea { margin-top: 40px; }
 .resultsPagination { display: none; }
 .topcolourtitle { max-width: 100%; padding-left: 20px; padding-right: 23px; padding-top: 5px; padding-bottom: 0px; }
+h1 { font-size: 30px; }
 	}
