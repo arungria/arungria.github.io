@@ -122,3 +122,4 @@ a.pagesPanelNumber:hover { background-color: #00AFEA; color: #FFFFFF; text-decor
 .featuredTitle { padding: 20px; font-size: 26px; color: #FFFFFF; }
 .titleFeatured { background-color: #50bacc; }
 .titleRecommended {background-color: #A2A2A2; }
+.descBox { padding: 20px; background-color: #D8D8D8; }
