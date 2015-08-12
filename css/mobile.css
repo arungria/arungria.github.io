@@ -1,6 +1,6 @@
 @media only screen and (min-width: 760px) {
 #mobileHeader { display: none; }
-#wrapper { margin-top: 94px; width: 80%; padding: 20px; max-width: 1080px; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
+#wrapper { margin-top: 94px; width: 80%; padding: 20px; max-width: 1080px; background-color: #CCCCCC; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
 #article { width: 75%; float:right; }
 #site #container { float: left; min-width: 55%; max-width: 65%; }
 body { background-color: #666666; }
@@ -16,10 +16,11 @@ h1 { font-size: 60px; }
 @media only screen and (max-width: 760px) {
 #header { display: none; }
 #leftmenu { display: none; }
-#wrapper { margin-top: 50px; width: 100%; padding-bottom: 20px }
+#wrapper { margin-top: 50px; width: 100%; padding-bottom: 20px; background-color: #FFFFFF }
 #site { padding: 10px; }
-body { background-color: #CCCCCC; }
-.articlewrapper { padding-bottom: 20px; width: 100%; }
+#article { box-shadow: 0 0 5px rgba(0,0,0,0.3); }
+body { background-color: #FFFFFF; }
+.articlewrapper { padding-bottom: 20px; width: 100%; background-color: #CCCCCC; }
 .helparea { margin-top: 40px; }
 .resultsPagination { display: none; }
 .topcolourtitle { max-width: 100%; padding-left: 20px; padding-right: 23px; padding-top: 5px; padding-bottom: 0px; }
