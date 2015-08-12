@@ -43,7 +43,7 @@ a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
 .inside { padding-top: 6px; padding-right: 6px; padding-bottom: 6px; padding-left: 6px; }
 .mainart { position: absolute; left: 0px; top: 0px; right: 0px; z-index: -1; }
 .languagepicker { float: right; margin-right: 3%; height: 100%; }
-#wrapper { clear: both; margin-left: auto; margin-right: auto; background-color: #CCCCCC; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
+#wrapper { clear: both; margin-left: auto; margin-right: auto; background-color: #CCCCCC; }
 .articlewrapper { clear: both; margin-left: auto; margin-right: auto; margin-top: 35%; background-color: #CCCCCC; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
 #mainarticle img { width: 100%; }
 #mainarticle { padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; }
