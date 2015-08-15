@@ -68,7 +68,7 @@ a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
 .specialfont { font-family: arufont; font-size: 170%; margin-right: 20px; }
 #footer { font-size: 12px; clear: both; padding-top: 30px; }
 #notification { background-color: #EBEBEB; padding: 20px; margin-top: 10px; border: 1px dotted #1A1A1A; }
-#mainsection .mainsectionmenu { width: 33.3%; float: left; }
+#mainsection .mainsectionmenu { min-width: 33.3%; float: left; }
 .mainsectionmenu a.assignments { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #50bacc; color: #FFFFFF; display: block; }
 .mainsectionmenu a.assignments:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #39AFC4; color: #FFFFFF; display: block; }
 .mainsectionmenu a.videos { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #000000; color: #FFFFFF; display: block; }
