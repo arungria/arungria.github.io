@@ -1,0 +1,34 @@
+@media only screen and (min-width: 760px) {
+#videobox { width: 25%; }
+	}
+@media only screen and (max-width: 760px) {
+#videobox { width: 100%; clear: both; }
+	}
+@charset "utf-8";
+body { background-color: #000000; color: #FFFFFF; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; }
+h1 { font-size: 34px; font-weight: 200; }
+::-moz-selection {
+background: #00BEFD;
+color: #fff;
+text-shadow: 0px 0px 2px #000;
+}
+::selection { background: #00BEFD; color: #fff; text-shadow: 0px 0px 2px #000; }
+::-webkit-scrollbar {
+width: 8px;
+height: 8px;
+background-color: #000000;
+}
+::-webkit-scrollbar-thumb {
+background-color: #FFF;
+}
+#sitelogo img{ width: 50%; }
+#content { padding-top: 22px; padding-right: 22px; padding-bottom: 22px; padding-left: 22px; max-width: 1080px; }
+#list img { width: 100%; border: 8px solid #00BEFD; }
+#videobox { font-size: 22px; margin-right: 48px; float: left; margin-bottom: 50px; }
+a { color: #00BEFD; text-decoration: none; }
+a:hover { color: #37CDFF; text-decoration: none; }
+#footer { margin-top: 26px; clear: both; }
+.hugetext { font-size: 550%; color: #FFFFFF; }
+.footerlegal { display: inline-block; margin-left: 12px; }
+.specialfont { font-family: arufont; font-size: 170%; margin-right: 20px; }
+#latestvideos iframe { max-width: 100%; }
