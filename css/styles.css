@@ -68,7 +68,7 @@ a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
 .specialfont { font-family: arufont; font-size: 170%; margin-right: 20px; }
 #footer { font-size: 12px; clear: both; padding-top: 30px; }
 #notification { background-color: #EBEBEB; padding: 20px; margin-top: 10px; border: 1px dotted #1A1A1A; }
-#mainsection .mainsectionmenu { min-width: 33.3%; float: left; }
+#mainsection .mainsectionmenu { min-width: 33.3%; }
 .mainsectionmenu a.assignments { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #50bacc; color: #FFFFFF; display: block; }
 .mainsectionmenu a.assignments:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #39AFC4; color: #FFFFFF; display: block; }
 .mainsectionmenu a.videos { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #000000; color: #FFFFFF; display: block; }
@@ -104,7 +104,7 @@ li.mobileMenuIndent { margin-left: 25px; list-style-image: url(http://assets.aru
 .mobileMenuScroller { max-height: 40%; overflow-y: scroll; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; background-color: #55B0C0; }
 #pagesPanel ul li { list-style-type: none; list-style-position: inside; float: left; margin-right: 10px; }
 a.pagesPanelNumber { text-decoration: none; padding-top: 5px; padding-right: 9px; padding-bottom: 5px; padding-left: 9px; }
-a.currentPage { background-color: #8F8F8F; color: #FFFFFF; padding-top: 5px; padding-right: 9px; padding-bottom: 5px; padding-left: 9px; }
+a.currentPage { background-color: #8F8F8F; color: #FFFFFF; padding-top: 5px; padding-right: 9px; padding-bottom: 5px; padding-left: 9px; cursor: not-allowed; }
 a.pagesPanelNumber:hover { background-color: #00AFEA; color: #FFFFFF; text-decoration: none; padding-top: 5px; padding-right: 9px; padding-bottom: 5px; padding-left: 9px; }
 .resultsPagination { float: left; color: #666666; margin: 15px; }
 .resultsHowManyPages { font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; float: right; }

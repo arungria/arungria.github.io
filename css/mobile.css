@@ -13,6 +13,7 @@ h1 { font-size: 60px; }
 .featuredArticle { margin-left: -40px; margin-right: -40px; }
 .titleRecommended { margin-right: -40px; }
 .helparea { box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
+#mainsection .mainsectionmenu { float: left; }
 	}
 @media only screen and (max-width: 760px) {
 #header { display: none; }
@@ -27,4 +28,5 @@ body { background-color: #FFFFFF; }
 .featuredArticle { margin-left: -38px; margin-right: -38px; }
 .titleRecommended { margin-right: -38px; }
 h1 { font-size: 30px; }
+#mainsection .mainsectionmenu { float: none; }
 	}
