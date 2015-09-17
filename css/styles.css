@@ -90,13 +90,13 @@ article { margin-top: 20px; margin-left: auto; margin-right: auto; }
 .ptablecontents { margin-top: -20px; }
 .msizeimg { width: 30%; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px; }
 .mainsectionmenu a { transition: all .5s linear; }
-#mobileHeader { background-color: #50bacc; width: 100%; height: 50px; top: 0px; position: fixed; left: 0px; box-shadow: 0 0 50px rgba(0, 0, 0, 0.67); z-index: 10000; }
+#mobileHeader { background-color: #7ECFDC; width: 100%; height: 50px; top: 0px; position: fixed; left: 0px; box-shadow: 0 0 50px rgba(0, 0, 0, 0.67); z-index: 10000; }
 #mobileLogo img { height: 100%; }
-#mobileLogo { height: 100%; float: left; }
+#mobileLogo { height: 100%; float: left; background-color: #50bacc; }
 .mobileTopMenu { max-width: 100%; max-height: 50%; float: left; }
 label { cursor: pointer; }
 #menu-toggle { display: none; float: left; }
-#yesMobileMenu { display: none; position: fixed; padding-top: 20px; padding-right: 10px; padding-bottom: 50px; padding-left: 26px; margin-top: 5px; background-color: #50bacc; list-style-image: none; width: 100%; height: 100%; list-style-type: none; list-style-position: outside; }
+#yesMobileMenu { display: none; position: fixed; padding-top: 20px; padding-right: 10px; padding-bottom: 50px; padding-left: 26px; margin-top: 5px; background-color: #7ECFDC; list-style-image: none; width: 100%; height: 100%; list-style-type: none; list-style-position: outside; }
 #menu-toggle:checked + #yesMobileMenu { display: block; }
 #yesMobileMenu a { color: #FFFFFF; }
 #yesMobileMenu li { margin-bottom: 15px; }
