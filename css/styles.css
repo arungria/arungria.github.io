@@ -14,7 +14,8 @@ h2 { font-size: 31px; text-align: left; margin-top: 60px; }
 h3 { color: #333333; font-size: 20px; margin-top: 50px; }
 h5 { color: #FFFFFF; font-size: 25px; font-weight: 200; padding-left: 10px; }
 #mainTitle { font-weight: 200; color: #FFFFFF; text-shadow: 0px 0px 15px #000000; text-align: center; max-width: 80%; margin-left: auto; margin-right: auto; }
-#logo, .brand { background-color: #50bacc; float: left; }
+#logo, .brand, .titleFeatured, .mainsectionmenu a.assignments, a.mainmenu:hover, a.mainmenu:active, #mobileLogo { background-color: #50bacc; }
+#logo, .brand { float: left; }
 #logo { width: 100px; height: 100px; max-height: 100%; }
 #logo img { max-height: 100%; }
 #menu ul { list-style-type: none; margin-top: 40px; max-height: 1%; }
@@ -36,8 +37,8 @@ background-color: #FFF;
 a { color: #0085B0; text-decoration: none; }
 a:hover { color: #00A2D7; text-decoration: none; }
 a.mainmenu { background-color: #333333; color: #FFFFFF; text-decoration: none; }
-a.mainmenu:hover { background-color: #50bacc; color: #FFFFFF; text-decoration: none; }
-a.mainmenu:active { background-color: #50bacc; color: #FFFFFF; text-decoration: none; }
+a.mainmenu:hover { color: #FFFFFF; text-decoration: none; }
+a.mainmenu:active { color: #FFFFFF; text-decoration: none; }
 a.mainmenu:focus { background-color: #339CAE; color: #FFFFFF; text-decoration: none; }
 a.leftmenu { color: #FFFFFF; text-decoration: none; }
 a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
@@ -70,7 +71,7 @@ a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
 #footer { font-size: 12px; clear: both; padding-top: 30px; }
 #notification { background-color: #EBEBEB; padding: 20px; margin-top: 10px; border: 1px dotted #1A1A1A; }
 #mainsection .mainsectionmenu { min-width: 33.3%; }
-.mainsectionmenu a.assignments { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #50bacc; color: #FFFFFF; display: block; }
+.mainsectionmenu a.assignments { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; color: #FFFFFF; display: block; }
 .mainsectionmenu a.assignments:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #39AFC4; color: #FFFFFF; display: block; }
 .mainsectionmenu a.videos { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #000000; color: #FFFFFF; display: block; }
 .mainsectionmenu a.videos:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #0F0F0F; color: #FFFFFF; display: block; }
@@ -93,7 +94,7 @@ article { margin-top: 20px; margin-left: auto; margin-right: auto; }
 .mainsectionmenu a { transition: all .5s linear; }
 #mobileHeader { background-color: #7ECFDC; width: 100%; height: 50px; top: 0px; position: fixed; left: 0px; box-shadow: 0 0 50px rgba(0, 0, 0, 0.67); z-index: 10000; }
 #mobileLogo img { height: 100%; }
-#mobileLogo { height: 100%; float: left; background-color: #50bacc; }
+#mobileLogo { height: 100%; float: left; }
 .mobileTopMenu { max-width: 100%; max-height: 50%; float: left; }
 label { cursor: pointer; }
 #menu-toggle { display: none; float: left; }
@@ -121,6 +122,5 @@ a.pagesPanelNumber:hover { background-color: #00AFEA; color: #FFFFFF; text-decor
 .brand { position: absolute; top: 0; left: 0; bottom: 0; }
 .featuredArticle { position: relative; box-shadow: 0 0 60px rgb(74, 74, 74); }
 .featuredTitle { padding: 20px; font-size: 26px; color: #FFFFFF; }
-.titleFeatured { background-color: #50bacc; }
 .titleRecommended { background-color: #A2A2A2; }
 .descBox { padding: 20px; background-color: #D8D8D8; }
