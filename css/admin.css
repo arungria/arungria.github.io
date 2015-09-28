@@ -1,0 +1,11 @@
+@charset "utf-8";
+body { background-color: #E7E7E7; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; }
+#loginFormBox { margin: 0 auto; width: 40%; padding: 2rem 4rem; background-color: #FFFFFF; font-size: 20px; display: block; }
+#loginFormBox .img { text-align: center; }
+h1 { font-size: 30px; }
+#loginFormBox .img img { max-width: 100%; }
+#login .user #username { font-size: 20px; max-width: 130%; }
+#login .pass #password { font-size: 20px; max-width: 130%; }
+#login label { color: #A9A9A9; }
+#login .log #button { border: medium none; background-color: #C67F38; min-width: 62%; text-align: center; display: block; margin: 0px auto; padding: 10px; font-size: 1.5rem; color: #F8F8F8; cursor: pointer; margin-top: 20px; }
+div #login .pass { margin-top: 20px; }
