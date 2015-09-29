@@ -14,7 +14,7 @@ h2 { font-size: 31px; text-align: left; margin-top: 60px; }
 h3 { color: #333333; font-size: 20px; margin-top: 50px; }
 h5 { color: #FFFFFF; font-size: 25px; font-weight: 200; padding-left: 10px; }
 #mainTitle { font-weight: 200; color: #FFFFFF; text-shadow: 0px 0px 15px #000000; text-align: center; max-width: 80%; margin-left: auto; margin-right: auto; }
-#logo, .brand, .titleFeatured, .mainsectionmenu a.assignments, a.mainmenu:hover, a.mainmenu:active, #mobileLogo { background-color: #50bacc; }
+#logo, .brand, .titleFeatured, .mainsectionmenu a.assignments, a.mainmenu:hover, a.mainmenu:active, #mobileLogo, #fixnotice { background-color: #50bacc; }
 #logo, .brand { float: left; }
 #logo { width: 100px; height: 100px; max-height: 100%; }
 #logo img { max-height: 100%; }
@@ -116,8 +116,8 @@ a.pagesPanelNumber:hover { background-color: #00AFEA; color: #FFFFFF; text-decor
 .topcolourtitle { box-shadow: 0 0 50px rgba(137, 137, 137, 1); margin-left: -25px; margin-top: -15px; margin-right: -25px; margin-bottom: 30px; }
 .topcolourtitle a { color: #FFFFFF; text-decoration: none; }
 .colourorange { background-color: #F77C2A; }
-#fixnotice { position: fixed; bottom: 0px; left: 0px; width: 100%; background-color: #0085B0; }
-.fixnotice { background-color: #DD6F00; color: #FFFFFF; font-size: 17px; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; text-align: center; padding-top: 13px; padding-right: 13px; padding-bottom: 13px; padding-left: 13px; }
+#fixnotice { position: fixed; bottom: 0px; left: 0px; width: 100%; z-index: 1; }
+.fixnotice { color: #FFFFFF; font-size: 17px; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; text-align: center; padding-top: 13px; padding-right: 13px; padding-bottom: 13px; padding-left: 13px; }
 .msamesizeimg { margin-top: 30px; margin-right: 30px; margin-bottom: 30px; margin-left: 30px; }
 .brand { position: absolute; top: 0; left: 0; bottom: 0; }
 .featuredArticle { position: relative; box-shadow: 0 0 60px rgb(74, 74, 74); }
