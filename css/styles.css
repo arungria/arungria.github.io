@@ -116,7 +116,7 @@ a.pagesPanelNumber:hover { background-color: #00AFEA; color: #FFFFFF; text-decor
 .topcolourtitle { box-shadow: 0 0 50px rgba(137, 137, 137, 1); margin-left: -25px; margin-top: -15px; margin-right: -25px; margin-bottom: 30px; }
 .topcolourtitle a { color: #FFFFFF; text-decoration: none; }
 .colourorange { background-color: #F77C2A; }
-#fixnotice { position: fixed; bottom: 0px; left: 0px; width: 100%; z-index: 1; }
+#fixnotice { display: none; position: fixed; bottom: 0px; left: 0px; width: 100%; z-index: 1; }
 .fixnotice { color: #FFFFFF; font-size: 17px; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; text-align: center; padding-top: 13px; padding-right: 13px; padding-bottom: 13px; padding-left: 13px; }
 .msamesizeimg { margin-top: 30px; margin-right: 30px; margin-bottom: 30px; margin-left: 30px; }
 .brand { position: absolute; top: 0; left: 0; bottom: 0; }
