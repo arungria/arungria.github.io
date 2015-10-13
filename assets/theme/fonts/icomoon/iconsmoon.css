@@ -134,6 +134,7 @@ input:focus {
 
 .icon {
 	font-family: 'IcoMoon';
+	margin-right: 10px;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
