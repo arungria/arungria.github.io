@@ -1,6 +1,6 @@
 /*!
 	* CSS archive for arungria's Web Site
-	* http://aru.cu.cc
+	* http://studies.eu.org
 	* http://es.cu.cc
 	* http://arungria.github.io
 	* @author http://github.com/arungria
@@ -15,6 +15,7 @@ h3 { color: #333333; font-size: 20px; margin-top: 50px; }
 h5 { color: #FFFFFF; font-size: 25px; font-weight: 200; padding-left: 10px; }
 #mainTitle { font-weight: 200; color: #FFFFFF; text-shadow: 0px 0px 15px #000000; text-align: center; max-width: 80%; margin-left: auto; margin-right: auto; }
 #logo, .brand, .titleFeatured, .mainsectionmenu a.assignments, a.mainmenu:hover, a.mainmenu:active, #mobileLogo, #fixnotice { background-color: #50bacc; }
+#header, #globalfooter { background-color: #3E3E3E; }
 #logo, .brand { float: left; }
 #logo { width: 100px; height: 100px; max-height: 100%; }
 #logo img { max-height: 100%; }
@@ -52,7 +53,7 @@ a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
 #leftmenu ul { list-style-type: none; padding-left: 16px; padding-top: 16px; padding-right: 16px; padding-bottom: 16px; }
 #leftmenu ul li { -webkit-box-shadow: 0px 0px; box-shadow: 0px 0px; margin-bottom: 19px; border-bottom: 1px solid #EAEAEA; }
 #menu { position: relative; }
-#header { background-color: #3E3E3E; height: 100px; left: 0px; right: 0px; top: 0px; position: absolute; max-height: 100%; box-shadow: 0 0 60px rgba(0, 0, 0, 1); }
+#header { height: 100px; left: 0px; right: 0px; top: 0px; position: absolute; max-height: 100%; box-shadow: 0 0 60px rgba(0, 0, 0, 1); }
 #leftmenu { float: left; border-right: 2px solid #000000; padding-left: 10px; margin-bottom: 25px; min-width: 12%; }
 #article { padding-top: 27px; padding-right: 27px; padding-bottom: 27px; padding-left: 27px; background-color: rgb(255,255,255); font-family: "PT Sans", Arial, Helvetica, Sans-Serif; min-height: 500px; }
 #article ul li { list-style-type: square; margin-bottom: 15px; }
@@ -81,7 +82,7 @@ article { margin-top: 20px; margin-left: auto; margin-right: auto; }
 #mainsection { background-color: #999999; }
 .notification { width: 100%; margin-right: auto; margin-left: auto; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; margin-top: 10px; margin-bottom: 10px; border: 1px dotted #CCCCCC; background-color: #F4F4F4; }
 .footerlegal { display: inline-block; margin-left: 12px; }
-#globalfooter { padding-top: 20px; border-top: 1px solid #989898; text-align: center; }
+#globalfooter { padding-top: 20px; padding-bottom: 20px; border-top: 5px solid #989898; color: #fff; margin-bottom: -20px; text-align: center; }
 .surePrint { display: none; }
 .floatLeft { float: left; }
 .floatRight { float: right; }
@@ -102,7 +103,7 @@ label { cursor: pointer; }
 #menu-toggle:checked + #yesMobileMenu { display: block; }
 #yesMobileMenu a { color: #FFFFFF; }
 #yesMobileMenu li { margin-bottom: 15px; }
-li.mobileMenuIndent { margin-left: 25px; list-style-image: url(http://assets.aru.cu.cc/theme/images/icons/mobilemenu_indentation.png); list-style-position: inside; }
+li.mobileMenuIndent { margin-left: 25px; list-style-image: url(http://assets.rill.eu.org/theme/images/icons/mobilemenu_indentation.png); list-style-position: inside; }
 .mobileMenuScroller { max-height: 40%; overflow-y: scroll; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; background-color: #55B0C0; }
 #pagesPanel ul li { list-style-type: none; list-style-position: inside; float: left; margin-right: 10px; }
 a.pagesPanelNumber { text-decoration: none; padding-top: 5px; padding-right: 9px; padding-bottom: 5px; padding-left: 9px; }
