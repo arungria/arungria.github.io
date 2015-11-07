@@ -21,7 +21,7 @@ h1 { font-size: 60px; }
 @media only screen and (max-width: 760px) {
 #header { display: none; }
 #leftmenu { display: none; }
-#wrapper { margin-top: 50px; width: 100%; padding-bottom: 20px; background-color: #FFFFFF }
+#wrapper { margin-top: 50px; width: 100%; padding-bottom: 0px; background-color: #FFFFFF }
 #site { padding: 10px; }
 body { background-color: #FFFFFF; }
 .articlewrapper { padding-bottom: 20px; width: 100%; }
