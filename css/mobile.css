@@ -1,10 +1,10 @@
 @media only screen and (min-width: 760px) {
 #mobileHeader { display: none; }
 #wrapper { margin-top: 94px; width: 80%; padding: 20px; max-width: 1080px; background-color: #CCCCCC; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
-#article { width: 75%; float:right; box-shadow: 0 0 5px rgba(0,0,0,0.3); border-top: 25px solid #3E3E3E; border-bottom: 25px solid #3E3E3E; }
+#article { width: 75%; float:right; padding-top: 27px; padding-bottom: 27px; padding-right: 27px; box-shadow: 0 0 5px rgba(0,0,0,0.3); border-top: 25px solid #3E3E3E; border-bottom: 25px solid #3E3E3E; }
 #site #container { float: left; min-width: 55%; max-width: 65%; }
 body { background-color: #666666; }
-.articlewrapper { width: 80%; padding: 20px; max-width: 1080px; background-color: #CCCCCC; }
+.articlewrapper { width: 80%; padding: 20px; max-width: 1080px; background-color: #CCCCCC; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
 .helparea { width: 80%; margin-top: 90px; }
 #pagesPanel { border-top: thin dotted #999999; border-bottom: thin dotted #999999; float: right; }
 .resultsPagination { display: block; }
@@ -36,4 +36,5 @@ h1 { font-size: 30px; }
 #mainTitle { font-size: 20px; margin-top: 25%; margin-bottom: 10px; }
 #globalfooter { margin-left: -18px; margin-right: -18px; }
 .helparea #footer #globalfooter { margin: -18px; }
+.tableofcontents { margin-right: -18px; }
 	}
