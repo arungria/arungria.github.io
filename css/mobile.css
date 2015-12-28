@@ -22,7 +22,7 @@ h1 { font-size: 60px; }
 #header { display: none; }
 #leftmenu { display: none; }
 #wrapper { margin-top: 50px; width: 100%; padding-bottom: 0px; background-color: #FFFFFF }
-#article { border-top: 25px solid #50BACC; }
+.articlewrapper #site #content #article { border-top: 25px solid #50BACC; }
 #site { padding: 10px; }
 body { background-color: #FFFFFF; }
 .articlewrapper { width: 100%; }
