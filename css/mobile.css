@@ -1,7 +1,7 @@
 @media only screen and (min-width: 760px) {
 #mobileHeader { display: none; }
 #wrapper { margin-top: 94px; width: 80%; padding: 20px; max-width: 1080px; background-color: #CCCCCC; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
-#article { width: 75%; float:right; box-shadow: 0 0 5px rgba(0,0,0,0.3); }
+#article { width: 75%; float:right; box-shadow: 0 0 5px rgba(0,0,0,0.3); border-top: 25px solid #3E3E3E; border-bottom: 25px solid #3E3E3E; }
 #site #container { float: left; min-width: 55%; max-width: 65%; }
 body { background-color: #666666; }
 .articlewrapper { width: 80%; padding: 20px; max-width: 1080px; background-color: #CCCCCC; }
@@ -22,6 +22,7 @@ h1 { font-size: 60px; }
 #header { display: none; }
 #leftmenu { display: none; }
 #wrapper { margin-top: 50px; width: 100%; padding-bottom: 0px; background-color: #FFFFFF }
+#article { border-top: 25px solid #50BACC; }
 #site { padding: 10px; }
 body { background-color: #FFFFFF; }
 .articlewrapper { width: 100%; }
