@@ -35,6 +35,7 @@ background-color: #3E3E3E;
 ::-webkit-scrollbar-thumb {
 background-color: #FFF;
 }
+#content { min-height: 600px; }
 a { color: #0085B0; text-decoration: none; }
 a:hover { color: #00A2D7; text-decoration: none; }
 a.mainmenu { background-color: #333333; color: #FFFFFF; text-decoration: none; }
