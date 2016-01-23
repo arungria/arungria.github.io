@@ -130,13 +130,12 @@ a.pagesPanelNumber:hover { background-color: #00AFEA; color: #FFFFFF; text-decor
 audio { max-width: 100%; display: block; }
 #images {
   width: 100%;
-  height: 355px;
+  height: 500px;
   overflow: hidden;
   position: relative; 
   margin: 20px auto;
 }
 #images img {
-  width: 100%;
   height: 100%;
   position: absolute;
   top: 0;
