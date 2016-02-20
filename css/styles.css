@@ -126,7 +126,6 @@ a.pagesPanelNumber:hover { background-color: #00AFEA; color: #FFFFFF; text-decor
 .featuredTitle { padding: 20px; font-size: 26px; color: #FFFFFF; }
 .titleRecommended { background-color: #A2A2A2; }
 .descBox { padding: 20px; background-color: #D8D8D8; }
-#article iframe { max-width: 100%; }
 audio { max-width: 100%; display: block; }
 #images {
   width: 100%;
@@ -155,4 +154,21 @@ audio { max-width: 100%; display: block; }
 #images img:first-child {
   left: 0;
   opacity: 1;
+}
+
+/* Videos Section */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
