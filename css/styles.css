@@ -127,7 +127,7 @@ a.pagesPanelNumber:hover { background-color: #00AFEA; color: #FFFFFF; text-decor
 .titleRecommended { background-color: #A2A2A2; }
 .descBox { padding: 20px; background-color: #D8D8D8; }
 .videolink { margin-top: 30px; margin-bottom: 30px; }
-a.videolink { color: #FFF; background-color: #666; text-decoration: none; padding: 20px; text-align: center; margin: 10px; }
+a.videolink { color: #FFF; background-color: #666; text-decoration: none; padding: 20px; text-align: center; margin: 10px; display: inline-block; }
 a.videolink:hover { box-shadow: inset 1px 1px 1px 1px #000; transition-delay: 0s;  transition-property: all; transition-timing-function: ease-out; }
 audio { max-width: 100%; display: block; }
 #images {
