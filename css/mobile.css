@@ -9,6 +9,7 @@ body { background-color: #666666; }
 #pagesPanel { border-top: thin dotted #999999; border-bottom: thin dotted #999999; float: right; }
 .resultsPagination { display: block; }
 h1 { font-size: 60px; }
+h4 { font-size: 200%; }
 .topcolourtitle { padding: 20px; }
 .featuredArticle { margin-left: -40px; margin-right: -40px; }
 .titleRecommended { margin-right: -40px; }
@@ -32,6 +33,7 @@ body { background-color: #FFFFFF; }
 .featuredArticle { margin-left: -38px; margin-right: -38px; }
 .titleRecommended { margin-right: -38px; }
 h1 { font-size: 30px; }
+h4 { font-size: 100%; }
 #mainsection .mainsectionmenu { float: none; }
 #mainTitle { font-size: 20px; margin-top: 25%; margin-bottom: 10px; }
 #globalfooter { margin-left: -18px; margin-right: -18px; }
