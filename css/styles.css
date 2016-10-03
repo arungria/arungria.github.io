@@ -135,7 +135,7 @@ a.videolink:hover { box-shadow: inset 1px 1px 1px 1px #000; transition-delay: 0s
 #wrapper #site #content .languages ul li { float: left; list-style-type: none; margin-right: 75px; list-style-image: url(http://assets.rill.eu.org/theme/images/icons/bullet.jpg); margin-bottom: 40px; }
 .languages, .footnote { border-top: 1px solid #E9E9E9; }
 .languages { font-size: 30px; }
-.footnote { font-size: 12px; color: #9e9b9a; }
+.footnote { font-size: 12px; color: #9e9b9a; clear: both; }
 #whitePalette { background: #f1f1f1; padding: 40px; }
 audio { max-width: 100%; display: block; }
 #images {
