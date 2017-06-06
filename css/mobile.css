@@ -17,6 +17,9 @@ h1, h4 { font-size: 200%; }
 #mainTitle { font-size: 60px; margin-top: 14%; min-height: 400px; }
 #globalfooter { margin-left: -20px; margin-right: -20px; }
 .helparea #footer #globalfooter { margin: -25px; }
+.section { max-width: 40%; }
+.leftsec { float: left; }
+.rightsec { float: right; }
 	}
 @media only screen and (max-width: 760px) {
 #header { display: none; }
@@ -38,4 +41,7 @@ h1, h4 { font-size: 100%; }
 #globalfooter { margin-left: -18px; margin-right: -18px; }
 .helparea #footer #globalfooter { margin: -18px; }
 .tableofcontents { margin-right: -18px; }
+.section { max-width: 90%; }
+.leftsec { float: none; }
+.rightsec { float: none; }
 	}
