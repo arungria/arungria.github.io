@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5 {
 h1 { margin-top: 10px; }
 h2 { font-size: 31px; text-align: left; margin-top: 60px; }
 h3 { color: #333333; font-size: 20px; margin-top: 50px; }
-h1, h4 { color: #a1a1a1; font-weight: 100; }
+h1, h4, a.resourcesuniversity, a.resourcesuniversity:hover { color: #a1a1a1; font-weight: 100; }
 h5 { color: #FFFFFF; font-size: 25px; font-weight: 200; padding-left: 10px; }
 #mainTitle {
 	font-weight: 200;
@@ -191,8 +191,12 @@ audio { max-width: 100%; display: block; }
 .section { background-color: #f1f1f1; padding: 20px; min-width: 40%; min-height: 50px; }
 .gotose { text-transform: uppercase; font-size: 11px; font-weight: bold; color: #404040; }
 .gotosetitle { font-size: 12px; color: #9c9c9c; }
-.twospace { line-height: 40px; }.twentypad {
-	padding: 20px;
+.twospace { line-height: 40px; }
+.resourcestwentypad {
+	padding-top: 3em;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 3em;
 }
 .darkblue {
 	background-color: #39435a;
@@ -202,13 +206,17 @@ audio { max-width: 100%; display: block; }
 }
 a.resourcesteachers {
 	background-color: #39435a;
+	display: block;
 }
 a.resourcesteachers:hover {
 	background-color: #4e5c7b;
+	display: block;
 }
 a.resourcesuniversity {
 	background-color: #a5620a;
+	display: block;
 }
 a.resourcesuniversity:hover {
 	background-color: #bb6f0c;
+	display: block;
 }
