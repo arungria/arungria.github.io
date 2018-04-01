@@ -191,4 +191,12 @@ audio { max-width: 100%; display: block; }
 .section { background-color: #f1f1f1; padding: 20px; min-width: 40%; min-height: 50px; }
 .gotose { text-transform: uppercase; font-size: 11px; font-weight: bold; color: #404040; }
 .gotosetitle { font-size: 12px; color: #9c9c9c; }
-.twospace { line-height: 40px; }
+.twospace { line-height: 40px; }.twentypad {
+	padding: 20px;
+}
+.darkblue {
+	background-color: #39435a;
+}
+.darkorange {
+	background-color: #a5620a;
+}
