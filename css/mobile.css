@@ -34,7 +34,7 @@ body { background-color: #FFFFFF; }
 .featuredArticle { margin-left: -38px; margin-right: -38px; }
 .titleRecommended { margin-right: -38px; }
 h1 { border-bottom: 1px solid #E9E9E9; margin-bottom: 2em; }
-h1, h4 { font-size: 100%; }
+h1, h4 { font-size: 180%; }
 #mainsection .mainsectionmenu { float: none; }
 #mainTitle { font-size: 20px; margin-top: 25%; margin-bottom: 10px; }
 #globalfooter { margin-left: -18px; margin-right: -18px; }
