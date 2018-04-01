@@ -200,3 +200,15 @@ audio { max-width: 100%; display: block; }
 .darkorange {
 	background-color: #a5620a;
 }
+a.resourcesteachers {
+	background-color: #39435a;
+}
+a.resourcesteachers:hover {
+	background-color: #4e5c7b;
+}
+a.resourcesuniversity {
+	background-color: #a5620a;
+}
+a.resourcesuniversity:hover {
+	background-color: #bb6f0c;
+}
