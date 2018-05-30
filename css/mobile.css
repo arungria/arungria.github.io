@@ -5,6 +5,7 @@
 #site #container { float: left; min-width: 55%; max-width: 65%; }
 body { background-color: #666666; }
 .articlewrapper { width: 80%; padding: 20px; max-width: 1080px; background-color: #CCCCCC; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
+.languagepicker { margin-top: -30px; }
 .helparea { width: 80%; margin-top: 90px; }
 #pagesPanel { border-top: thin dotted #999999; border-bottom: thin dotted #999999; float: right; }
 .resultsPagination { display: block; }
@@ -28,6 +29,7 @@ h1, h4 { font-size: 200%; }
 #site { padding: 10px; }
 body { background-color: #FFFFFF; }
 .articlewrapper { width: 100%; }
+.languagepicker { margin-top: 0px; }
 .helparea { margin-top: 40px; }
 .resultsPagination { display: none; }
 .topcolourtitle { display: none; }
