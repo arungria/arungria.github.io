@@ -199,10 +199,8 @@ audio { max-width: 100%; display: block; }
 .gotosetitle { font-size: 12px; color: #9c9c9c; }
 .twospace { line-height: 40px; }
 .resourcestwentypad {
-	padding-top: 3em;
 	padding-right: 20px;
 	padding-left: 20px;
-	padding-bottom: 3em;
 }
 .darkblue {
 	background-color: #39435a;
