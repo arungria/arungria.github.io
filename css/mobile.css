@@ -10,7 +10,12 @@ body { background-color: #666666; }
 #pagesPanel { border-top: thin dotted #999999; border-bottom: thin dotted #999999; float: right; }
 .resultsPagination { display: block; }
 h1, h4 { font-size: 200%; }
-.topcolourtitle { padding: 20px; }
+.topcolourtitle {
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+}
 .featuredArticle { margin-left: -40px; margin-right: -40px; }
 .titleRecommended { margin-right: -40px; }
 .helparea { box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
