@@ -10,4 +10,6 @@ body { background-color: #FFFFFF; }
 #article { box-shadow: none; }
 .helparea { box-shadow: none; }
 .downloadbox { display: none; }
+#mainTitle { display: none; }
+.footerlegal .specialfont { display: none; }
 }
