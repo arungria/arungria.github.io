@@ -6,7 +6,7 @@
 	font-size: 75%;
 }
 #site #container { padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; }
-#site #container .article { margin-top: 15px; }
+#site #container .article { margin-top: 15px; font-size: 24px; line-height: 1.5; }
 h4 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom: 1px solid #eee; }
 #site #container a:hover { color: #F77C2A; }
 #site #rightarea { float: right; min-width: 10%; margin-bottom: 6px; margin-left: 6px; max-width: 100%; }
