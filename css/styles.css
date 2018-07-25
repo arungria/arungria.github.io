@@ -1,8 +1,8 @@
 /*!
 	* CSS archive for English Studies EN Web Site
-	* http://studies.eu.org
-	* http://arungria.github.io
-	* @author http://github.com/arungria
+	* https://studies.eu.org
+	* https://arungria.github.io
+	* @author https://github.com/arungria
 	* Copyright 2014-2018
 */
 @charset "utf-8";
@@ -130,7 +130,7 @@ label { cursor: pointer; }
 #menu-toggle:checked + #yesMobileMenu { display: block; }
 #yesMobileMenu a { color: #FFFFFF; }
 #yesMobileMenu li { margin-bottom: 15px; }
-li.mobileMenuIndent { margin-left: 25px; list-style-image: url(http://assets.rill.eu.org/theme/images/icons/mobilemenu_indentation.png); list-style-position: inside; }
+li.mobileMenuIndent { margin-left: 25px; list-style-image: url(https://assets.rill.eu.org/theme/images/icons/mobilemenu_indentation.png); list-style-position: inside; }
 .mobileMenuScroller { max-height: 40%; overflow-y: scroll; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; background-color: #55B0C0; }
 #pagesPanel ul li { list-style-type: none; list-style-position: inside; float: left; margin-right: 10px; }
 a.pagesPanelNumber { text-decoration: none; padding-top: 5px; padding-right: 9px; padding-bottom: 5px; padding-left: 9px; }
@@ -158,7 +158,7 @@ a.pagesPanelNumber:hover { background-color: #00AFEA; color: #FFFFFF; text-decor
 a.videolink { color: #FFF; background-color: #666; text-decoration: none; padding: 20px; text-align: center; margin: 10px; display: inline-block; }
 a.videolink:hover { box-shadow: inset 1px 1px 1px 1px #000; transition-delay: 0s;  transition-property: all; transition-timing-function: ease-out; }
 #overflowx { overflow-x: scroll; }
-#wrapper #site #content .languages ul li { float: left; list-style-type: none; margin-right: 75px; list-style-image: url(http://assets.rill.eu.org/theme/images/icons/bullet.jpg); margin-bottom: 40px; }
+#wrapper #site #content .languages ul li { float: left; list-style-type: none; margin-right: 75px; list-style-image: url(https://assets.rill.eu.org/theme/images/icons/bullet.jpg); margin-bottom: 40px; }
 .languages, .footnote { border-top: 1px solid #E9E9E9; }
 .languages { font-size: 30px; }
 .langselectionsmall { padding-left: 4px; }
