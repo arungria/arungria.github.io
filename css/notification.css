@@ -1,5 +1,5 @@
 @charset "utf-8";
-#fixnotice { display: none; position: fixed; bottom: 0px; left: 0px; width: 100%; z-index: 1; }
+#fixnotice { display: block; position: fixed; bottom: 0px; left: 0px; width: 100%; z-index: 1; }
 .fixnotice { color: #FFFFFF; font-size: 17px; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; text-align: center; padding-top: 13px; padding-right: 13px; padding-bottom: 13px; padding-left: 13px; }
 }
 
