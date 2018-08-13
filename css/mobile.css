@@ -22,6 +22,7 @@ h1, h4 { font-size: 200%; }
 #mainsection .mainsectionmenu { float: left; }
 #mainTitle { font-size: 60px; margin-top: 14%; min-height: 400px; }
 #globalfooter { margin-left: -20px; margin-right: -20px; }
+.descBox { background-color: #D8D8D8; }
 .helparea #footer #globalfooter { margin: -25px; }
 .leftsec { float: left; }
 .rightsec { float: right; }
@@ -49,6 +50,7 @@ h1, h4 { font-size: 180%; }
 #mainsection .mainsectionmenu { float: none; }
 #mainTitle { font-size: 20px; margin-top: 25%; margin-bottom: 10px; }
 #globalfooter { margin-left: -18px; margin-right: -18px; }
+.descBox { background-color: #FFFFFF; }
 .helparea #footer #globalfooter { margin: -18px; }
 .tableofcontents { margin-right: -18px; }
 .section { max-width: 90%; }
