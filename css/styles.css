@@ -202,6 +202,7 @@ audio { max-width: 100%; display: block; }
   left: 0;
   opacity: 1;
 }
+#whitish { background-color: #FFFFFF; }
 .section { background-color: #f1f1f1; padding: 20px; min-width: 40%; min-height: 90px; }
 .gotose { text-transform: uppercase; font-size: 11px; font-weight: bold; color: #404040; }
 .gotosetitle { font-size: 12px; color: #9c9c9c; }
