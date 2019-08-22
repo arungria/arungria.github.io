@@ -256,6 +256,9 @@ a.smalllink:hover {
 .whitish {
 	background-color: #ffffff;
 }
+.blackish {
+	background-color: #000000;
+}
 #centerme {
 	margin: 0 auto;
 }
