@@ -32,7 +32,7 @@ h5 { color: #FFFFFF; font-size: 25px; font-weight: 200; padding-left: 10px; }
 	font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Roboto,"Segoe UI",Helvetica,Arial,"Noto Sans","Arial Unicode","Arial Unicode MS",sans-serif;
 }
 #logo, .brand, .titleFeatured, .mainsectionmenu a.assignments, a.mainmenu:hover, a.mainmenu:active, #mobileLogo, #fixnotice, a.videolink:hover { background-color: #50bacc; }
-#header, #globalfooter { background-color: #3E3E3E; }
+#header, #globalfooter, .darkerer { background-color: #3E3E3E; }
 #logo, .brand { float: left; }
 #logo { width: 100px; height: 100px; max-height: 100%; }
 #logo img { max-height: 100%; }
@@ -263,4 +263,3 @@ a.smalllink:hover {
 #centerme {
 	margin: 0 auto;
 }
-
