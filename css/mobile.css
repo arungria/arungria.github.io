@@ -1,9 +1,6 @@
 @media only screen and (min-width: 760px) {
 #mobileHeader { display: none; }
-#wrapper { background-color: #CCCCCC; }
-#wrapperw { background-color: #FFFFFF; }
-#wrapper { margin-top: 94px; width: 80%; padding: 20px; max-width: 1080px; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
-#wrapperw { margin-top: 94px; width: 80%; padding: 20px; max-width: 1080px; box-shadow: 0 0 50px rgba(0, 0, 0, 1); }
+#wrapper { margin-top: 94px; width: 80%; padding: 20px; max-width: 1080px; box-shadow: 0 0 50px rgba(0, 0, 0, 1); background-color: #CCCCCC; }
 #article { width: 75%; float:right; padding-top: 27px; padding-bottom: 27px; padding-right: 27px; box-shadow: 0 0 5px rgba(0,0,0,0.3); border-top: 25px solid #3E3E3E; border-bottom: 25px solid #3E3E3E; }
 #site #container { float: left; min-width: 55%; max-width: 65%; }
 body { background-color: #666666; }
@@ -37,10 +34,7 @@ h1, h4 { font-size: 200%; }
 @media only screen and (max-width: 760px) {
 #header { display: none; }
 #leftmenu { display: none; }
-#wrapper { background-color: #FFFFFF; }
-#wrapperw { background-color: #FFFFFF; }
-#wrapper { margin-top: 50px; width: 100%; padding-bottom: 0px; }
-#wrapperw { margin-top: 50px; width: 100%; padding-bottom: 0px; }
+#wrapper { margin-top: 50px; width: 100%; padding-bottom: 0px; background-color: #FFFFFF; }
 .articlewrapper #site #content #article { border-top: 25px solid #50BACC; }
 #site { padding: 10px; }
 body { background-color: #FFFFFF; }
