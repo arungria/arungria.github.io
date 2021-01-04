@@ -3,7 +3,7 @@
 	* https://studies.eu.org
 	* https://arungria.github.io
 	* @author https://github.com/arungria
-	* Copyright 2014-2019
+	* Copyright 2014-2021
 */
 @charset "utf-8";
 @import url("../static/webfonts/arufont/stylesheet.css");
@@ -71,6 +71,7 @@ a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
 }
 #wrapper { clear: both; margin-left: auto; margin-right: auto; }
 .articlewrapper { clear: both; margin-left: auto; margin-right: auto; }
+#wrapperw { background-color: #FFFFFF; }
 #mainarticle img { width: 100%; }
 #mainarticle { padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; }
 #leftmenu ul { list-style-type: none; padding-left: 16px; padding-top: 16px; padding-right: 16px; padding-bottom: 16px; }
