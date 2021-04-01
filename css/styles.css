@@ -63,7 +63,7 @@ a.mainmenu:focus { background-color: #339CAE; color: #FFFFFF; text-decoration: n
 a.leftmenu { color: #FFFFFF; text-decoration: none; }
 a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
 .inside { padding-top: 6px; padding-right: 6px; padding-bottom: 6px; padding-left: 6px; }
-.mainart { position: absolute; left: 0px; top: 0px; right: 0px; z-index: -1; }
+.mainart { position: fixed; left: 0px; top: 0px; right: 0px; z-index: -1; }
 .languagepicker {
 	float: right;
 	margin-right: 3%;
