@@ -263,10 +263,3 @@ a.smalllink:hover {
 #centerme {
 	margin: 0 auto;
 }
-.svgcontainter {
-	position: relative;
-}
-.svgcontainter svg {
-	top: 0;
-	left: 0;
-}
