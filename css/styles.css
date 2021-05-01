@@ -52,7 +52,7 @@ background-color: #3E3E3E;
 ::-webkit-scrollbar-thumb {
 background-color: #FFF;
 }
-#content { min-height: 600px; }
+#content { min-height: 800px; }
 a { color: #0085B0; text-decoration: none; }
 a:hover { color: #00A2D7; text-decoration: none; }
 a.inheritlinkcolour { color: inherit; text-decoration: none; }
