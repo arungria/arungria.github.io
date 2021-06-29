@@ -80,7 +80,7 @@ a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
 	margin-top: -23px;
 	margin-left: 80px;
 }
-#header { background-color: rgb(37 37 37 / 97%) !important; backdrop-filter: saturate(180%) blur(20px) !important; height: 100px; left: 0px; right: 0px; top: 0px; position: fixed; max-height: 100%; box-shadow: 0 0 60px rgba(0, 0, 0, 1); z-index: 10000; }
+#header { background-color: rgb(37 37 37 / 95%) !important; backdrop-filter: saturate(180%) blur(20px) !important; height: 100px; left: 0px; right: 0px; top: 0px; position: fixed; max-height: 100%; box-shadow: 0 0 60px rgba(0, 0, 0, 1); z-index: 10000; }
 #leftmenu { float: left; border-right: 1px dotted #ffffff; padding-left: 10px; margin-bottom: 25px; min-width: 12%; }
 #article { padding-left: 27px; background-color: rgb(255,255,255); font-family: "PT Sans", Arial, Helvetica, Sans-Serif; min-height: 500px; font-size: 24px; line-height: 1.5; }
 #article ul li { list-style-type: square; margin-bottom: 15px; }
