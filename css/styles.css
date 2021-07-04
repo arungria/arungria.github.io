@@ -53,8 +53,8 @@ background-color: #3E3E3E;
 background-color: #FFF;
 }
 #content { min-height: 800px; }
-a { color: #0085B0; text-decoration: none; }
-a:hover { color: #00A2D7; text-decoration: none; }
+a { color: #e8652694; text-decoration: underline dotted 2px; }
+a:hover { color: #00a2d7c7; text-decoration: none; }
 a.inheritlinkcolour { color: inherit; text-decoration: none; }
 a.mainmenu { background-color: #333333; color: #FFFFFF; text-decoration: none; }
 a.mainmenu:hover { color: #FFFFFF; text-decoration: none; }
