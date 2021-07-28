@@ -9,7 +9,7 @@ body { background-color: #666666; }
 .helparea { width: 80%; margin-top: 90px; }
 #pagesPanel { border-top: thin dotted #999999; border-bottom: thin dotted #999999; float: right; }
 .resultsPagination { display: block; }
-h1, h4 { font-size: 200%; }
+h1, h4 { font-size: 400%; }
 .topcolourtitle {
 	padding-top: 5px;
 	padding-right: 5px;
@@ -46,7 +46,7 @@ body { background-color: #FFFFFF; }
 .featuredArticle { margin-left: -38px; margin-right: -38px; }
 .titleRecommended { margin-right: -38px; }
 h1 { border-bottom: 1px solid #E9E9E9; margin-bottom: 2em; }
-h1, h4 { font-size: 180%; }
+h1, h4 { font-size: 280%; }
 #mainsection .mainsectionmenu { float: none; }
 #mainTitle { font-size: 20px; margin-top: 25%; margin-bottom: 10px; }
 #globalfooter { margin-left: -18px; margin-right: -18px; }
