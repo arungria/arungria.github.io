@@ -21,16 +21,10 @@ h2 { font-size: 31px; text-align: left; margin-top: 60px; }
 h3 { color: #333333; font-size: 20px; margin-top: 50px; }
 h1, h4, a.resourcesuniversity, a.resourcesuniversity:hover, a.resourcesteachers, a.resourcesteachers:hover { color: #a1a1a1; font-weight: 100; }
 h5 { color: #FFFFFF; font-size: 25px; font-weight: 200; padding-left: 10px; }
-#mainTitle {
-	font-weight: 200;
-	color: #FFFFFF;
-	text-shadow: 0px 0px 15px #000000;
-	text-align: center;
-	max-width: 80%;
-	margin-left: auto;
-	margin-right: auto;
-	font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Roboto,"Segoe UI",Helvetica,Arial,"Noto Sans","Arial Unicode","Arial Unicode MS",sans-serif;
-}
+/*
+If we want the main title (picture) to be shown again, just edit the display part.
+*/
+#mainTitle { display: none;font-weight : 200; color: #FFFFFF; text-shadow: 0px 0px 15px #000000; text-align: center; max-width: 80%; margin-left: auto; margin-right: auto; font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Roboto,"Segoe UI",Helvetica,Arial,"Noto Sans","Arial Unicode","Arial Unicode MS",sans-serif; }
 #logo, .brand, .titleFeatured, .mainsectionmenu a.assignments, a.mainmenu:hover, a.mainmenu:active, #mobileLogo, #fixnotice, a.videolink:hover, .mobileMenuScroller, a.pagesPanelNumber:hover { background-color: #989898; }
 #globalfooter, .darkerer { background-color: #3E3E3E; }
 #logo, .brand { float: left; }
@@ -69,7 +63,7 @@ a.leftmenu:hover { color: #FFFFFF; text-decoration: none; }
 	max-height: 100%;
 }
 #wrapper { clear: both; margin-left: auto; margin-right: auto; }
-.articlewrapper { clear: both; margin-left: auto; margin-right: auto; }
+.articlewrapper { clear: both; margin-left: auto; margin-right: auto; margin-top: 40%; }
 #mainarticle img { width: 100%; }
 #mainarticle { padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; }
 #leftmenu ul { list-style-type: none; padding-left: 16px; padding-top: 16px; padding-right: 16px; padding-bottom: 16px; }
