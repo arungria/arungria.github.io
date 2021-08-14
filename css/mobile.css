@@ -35,7 +35,7 @@ h1, h4 { font-size: 300%; line-height: 0.9; }
 #header { display: none; }
 #leftmenu { display: none; }
 #wrapper { margin-top: 50px; width: 100%; padding-bottom: 0px; background-color: #FFFFFF; }
-.articlewrapper #site #content #article { border-top: 25px solid #50BACC; }
+.articlewrapper #site #content #article { border-top: 25px solid #3E3E3E; }
 #site { padding: 10px; }
 body { background-color: #FFFFFF; }
 .articlewrapper { width: 100%; }
