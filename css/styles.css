@@ -254,4 +254,6 @@ a.smalllink:hover {
 .searchengine input:focus { border-color: #989898; box-shadow: 0 0 4px #ffffff; }
 .searchengine fieldset { font-size: 0.9em; margin: 0; border: 0; }
 #svgblog { border-top-style: solid; border-top-width: 20px; border-top-color: #3e3e3e; }
-.profileavatar { border-radius: 50%; background: #f1f1f1; margin-left: 5%; margin-bottom: 5%; }
+#avatarshowed { margin-left: 5%; margin-bottom: 5%; width: 20%; }
+.profileavatar { border-radius: 50%; background: #f1f1f1; }
+.imagenoteavatar { margin-top: 20px; color: #6788cc; font-size: 15px; }
