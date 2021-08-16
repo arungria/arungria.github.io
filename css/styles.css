@@ -37,7 +37,7 @@ a.mainmenu { background-color: #333333; color: #FFFFFF; text-decoration: none; }
 a.mainmenu:hover { color: #FFFFFF; text-decoration: none; }
 a.mainmenu:active { color: #FFFFFF; text-decoration: none; }
 a.leftmenu { color: #FFFFFF; text-decoration: none; }
-a.leftmenu:hover { color: ##333333; text-decoration: none; }
+a.leftmenu:hover { color: #333333; text-decoration: none; }
 .inside { padding-top: 6px; padding-right: 6px; padding-bottom: 6px; padding-left: 6px; }
 .mainart { position: fixed; left: 0px; top: 0px; right: 0px; z-index: -1; }
 .languagepicker { float: right; margin-right: 3%; max-height: 100%; }
