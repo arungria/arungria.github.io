@@ -161,3 +161,4 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .profileavatar { border-radius: 50%; background: #f1f1f1; }
 .imagenoteavatar { margin-top: 20px; color: #6788cc; font-size: 15px; }
 .langshortname { float: right; margin-top: 23px; font-size: 16px; font-weight: bold; }
+.svg { width: 100%; }
