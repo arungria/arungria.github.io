@@ -1,6 +1,6 @@
 @media only screen and (min-width: 1024px) {
 #mobileHeader { display: none; }
-#wrapper { margin-top: 94px; width: 80%; padding: 20px; max-width: 1080px; box-shadow: 0 0 50px rgba(0, 0, 0, 1); background-color: #CCCCCC; }
+#wrapper { margin-top: 100px; width: 80%; padding: 20px; max-width: 1080px; box-shadow: 0 0 50px rgba(0, 0, 0, 1); background-color: #CCCCCC; }
 #article { width: 74%; float:right; padding-top: 27px; padding-bottom: 27px; padding-right: 27px; box-shadow: 0 0 5px rgba(0,0,0,0.3); border-top: 25px solid #3E3E3E; border-bottom: 25px solid #3E3E3E; }
 #site #container { float: left; min-width: 55%; max-width: 65%; }
 body { background-color: #666666; }
