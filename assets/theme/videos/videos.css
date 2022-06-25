@@ -8,7 +8,7 @@
 #footer { font-size: 10px; }
 }
 @charset "utf-8";
-bodyvid { background-color: #000000; color: #FFFFFF; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; }
+#bodyvid { background-color: #000000; color: #FFFFFF; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; }
 h1 { font-size: 34px; font-weight: 200; }
 ::-moz-selection {
 background: #00BEFD;
@@ -32,9 +32,8 @@ background-color: #FFF;
 #globalfooter { text-align: center; }
 .hugetext { font-size: 550%; color: #FFFFFF; }
 .footerlegal { display: inline-block; margin-left: 12px; }
-.specialfont { font-family: arufont; font-size: 170%; margin-right: 20px; }
 #latestvideos iframe { max-width: 100%; }
-#headervid { background-color: #1F1F1F; height: 60px; left: 0px; right: 0px; top: 0px; position: absolute; }
+#headervid { background-color: #1F1F1F; height: 60px; margin-left: -27px; margin-right: -27px; margin-top: -28px; }
 #logovid { width: 60px; height: 60px; max-height: 100%; background-color: #000000; margin-left: auto; margin-right: auto; }
 #logovid img { width: 100%; }
 #fixnotice { display: none; }
