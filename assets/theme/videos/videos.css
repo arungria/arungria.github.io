@@ -8,7 +8,7 @@
 #footer { font-size: 10px; }
 }
 @charset "utf-8";
-#bodyvid { background-color: #000000; color: #FFFFFF; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; }
+body { background-color: #000000; color: #FFFFFF; font-family: "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; }
 h1 { font-size: 34px; font-weight: 200; }
 ::-moz-selection {
 background: #00BEFD;
@@ -27,15 +27,19 @@ background-color: #FFF;
 #sitelogo { margin-top: 90px; }
 #sitelogo img { width: 50%; }
 #content { margin-left:auto; margin-right:auto; max-width: 1250px; padding-top: 22px; padding-right: 22px; padding-bottom: 22px; padding-left: 22px; }
-#listvid img { width: 100%; border: 8px solid #00BEFD; }
+#list img { width: 100%; border: 8px solid #00BEFD; }
 #videobox { font-size: 22px; margin-right: 48px; float: left; margin-bottom: 50px; }
+a { color: #00BEFD; text-decoration: none; }
+a:hover { color: #37CDFF; text-decoration: none; }
+#footer { margin-top: 26px; clear: both; margin-left: auto; margin-right: auto; width: 85%; padding-top: 10px; border-top: 0.2em solid #E4E4E4; }
 #globalfooter { text-align: center; }
 .hugetext { font-size: 550%; color: #FFFFFF; }
 .footerlegal { display: inline-block; margin-left: 12px; }
+.specialfont { font-family: arufont; font-size: 170%; margin-right: 20px; }
 #latestvideos iframe { max-width: 100%; }
-#headervid { background-color: #1F1F1F; height: 60px; margin-left: -27px; margin-right: -27px; margin-top: -28px; }
-#logovid { width: 60px; height: 60px; max-height: 100%; background-color: #000000; margin-left: auto; margin-right: auto; }
-#logovid img { width: 100%; }
+#header { background-color: #1F1F1F; height: 60px; left: 0px; right: 0px; top: 0px; position: absolute; }
+#logo { width: 60px; height: 60px; max-height: 100%; background-color: #000000; margin-left: auto; margin-right: auto; }
+#logo img { width: 100%; }
 #fixnotice { display: none; }
 /* YouTube Section */
 .video-container {
