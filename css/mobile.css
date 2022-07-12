@@ -19,7 +19,6 @@ h1, h4 { font-size: 300%; line-height: 0.9; }
 #mainTitle { font-size: 60px; margin-top: 14%; min-height: 400px; }
 #globalfooter { margin-left: -20px; margin-right: -20px; }
 .descBox { background-color: #d5d5d5; border-top-left-radius: 40px; border-top-right-radius: 40px; }
-.helparea #footer #globalfooter { margin: -25px; }
 .leftsec { float: left; }
 .rightsec { float: right; }
 .resourcestwentypad { padding-top: 3em; padding-bottom: 3em; }
