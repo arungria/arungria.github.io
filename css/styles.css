@@ -2,7 +2,7 @@
 	* CSS file for English Studies EN Web Site
 	* https://studies.cat
 	* https://arungria.github.io
-	* @author https://github.com/arungria
+	* @author Alexander Ramal Ungria https://github.com/arungria
 	* Copyright 2014-2023
 */
 @charset "utf-8";
@@ -160,7 +160,7 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 #svgblog { border-top-style: solid; border-top-width: 20px; border-top-color: #3e3e3e; }
 #avatarshowed { margin-left: 5%; margin-bottom: 5%; width: 20%; }
 .profileavatar { border-radius: 50%; background: #f1f1f1; }
-.imagenoteavatar { margin-top: 20px; color: #6788cc; font-size: 15px; }
+.imagenoteavatar { margin-top: 20px; color: #989898; font-size: 15px; }
 .langshortname { float: right; margin-top: 23px; font-size: 16px; font-weight: bold; }
 .svg { width: 100%; }
 .resourcesteachers img { float: right; max-width: 20%; outline: #263046 4px solid; }
