@@ -163,8 +163,8 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .imagenoteavatar { margin-top: 20px; color: #989898; font-size: 15px; }
 .langshortname { float: right; margin-top: 23px; font-size: 16px; font-weight: bold; }
 .svg { width: 100%; }
-.resourcesteachers img { float: right; max-width: 20%; outline: #263046 4px solid; }
-.resourcesuniversity img { float: right; max-width: 20%; outline: #664315 4px solid; }
+.resourcesteachers img { float: right; max-width: 10%; outline: #263046 4px solid; }
+.resourcesuniversity img { float: right; max-width: 10%; outline: #664315 4px solid; }
 #websiteproperties { margin-bottom: 30px; }
 #sitemap { text-align: left; margin-left: 14%; }
 #license { clear: both; padding-top: 50px; }
