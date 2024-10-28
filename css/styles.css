@@ -173,3 +173,4 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 #globalfooter ul { float: left; margin-right: 90px; }
 #globalfooter ul li { list-style-type: none; margin-bottom: 16px; box-sizing: border-box; padding-right: 10px; }
 .importantp { margin-top: 100px; margin-bottom: 100px; font-size: 28px; color: #878787; border-top: dotted #878787 4px; border-bottom: solid #878787 4px; padding: 50px; }
+.imagemargins { margin: 20px; }
