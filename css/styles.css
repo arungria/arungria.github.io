@@ -3,7 +3,7 @@
 	* https://studies.cat
 	* https://arungria.github.io
 	* @author Alexander Ramal Ungria https://github.com/arungria
-	* Copyright 2014-2023
+	* Copyright 2014-2024
 */
 @charset "utf-8";
 @import url("../static/webfonts/arufont/stylesheet.css");
@@ -19,7 +19,7 @@ h5 { color: #FFFFFF; font-size: 25px; font-weight: 200; padding-left: 10px; }
 /*
 If we want the main title (picture) to be shown again, just edit the display part below.
 */
-#mainTitle { display: none;font-weight : 200; color: #FFFFFF; text-shadow: 0px 0px 15px #000000; text-align: center; max-width: 80%; margin-left: auto; margin-right: auto; font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Roboto,"Segoe UI",Helvetica,Arial,"Noto Sans","Arial Unicode","Arial Unicode MS",sans-serif; }
+#mainTitle { display: none; font-weight : 200; color: #FFFFFF; text-shadow: 0px 0px 15px #000000; text-align: center; max-width: 80%; margin-left: auto; margin-right: auto; font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Roboto,"Segoe UI",Helvetica,Arial,"Noto Sans","Arial Unicode","Arial Unicode MS",sans-serif; }
 #logo, .brand, .titleFeatured, .mainsectionmenu a.assignments, a.mainmenu:hover, a.mainmenu:active, #mobileLogo, #fixnotice, a.videolink:hover, .mobileMenuScroller, a.pagesPanelNumber:hover { background-color: #989898; }
 #globalfooter, .darkerer { background-color: #3E3E3E; }
 #logo, .brand { float: left; }
