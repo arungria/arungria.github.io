@@ -41,7 +41,7 @@ a.mainmenu:active { color: #FFFFFF; text-decoration: none; }
 a.leftmenu { color: #FFFFFF; text-decoration: none; }
 a.leftmenu:hover { color: #333333; text-decoration: none; }
 .inside { padding-top: 6px; padding-right: 6px; padding-bottom: 6px; padding-left: 6px; }
-.mainart { position: fixed; left: 0px; top: 0px; right: 0px; z-index: -1; }
+.mainart { position: fixed; left: 0px; top: 0px; right: 0px; z-index: -1; object-fit: cover; object-position: top; }
 .languagepicker { float: right; margin-right: 3%; max-height: 100%; }
 #wrapper { clear: both; margin-left: auto; margin-right: auto; }
 .articlewrapper { clear: both; margin-left: auto; margin-right: auto; margin-top: 40%; }
@@ -58,7 +58,7 @@ a.leftmenu:hover { color: #333333; text-decoration: none; }
 .box { width: 160px; min-height: 350px; float: none; margin-left: 20px; margin-bottom: 20px; display: inline-block; vertical-align: top; font-size: 20px; line-height: normal; }
 #helpbox { width: 260px; min-height: 350px; float: none; margin-bottom: 20px; display: inline-block; vertical-align: top; margin-left: auto; margin-right: auto; text-align: center; }
 #intro { font-size: 28px; margin-top: 16px; margin-bottom: 12px; }
-.full { width: 100%; }
+.full { width: 100%; height: 100%; }
 #note { font-size: 13px; margin-bottom: 13px; }
 .typeicon { width: 10%; margin-right: 10px; }
 .justify { text-align: justify; line-height: 30px; border-left: 1px dotted #202020; padding-left: 20px; }
