@@ -175,3 +175,5 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .importantp { margin-top: 100px; margin-bottom: 100px; font-size: 28px; color: #878787; border-top: dotted #878787 4px; border-bottom: solid #878787 4px; padding: 50px; }
 .imagemargins { margin: 20px; }
 .bigl { border-top-width: 15px; border-top-style: solid; border-top-color: #343434; margin-bottom: 150px; }
+.loginlink { color: white; background-color: #dd9c4e; border: #dd9c4e solid 1px; border-radius: 3px; }
+.loginlink:hover { background-color: #6f5b42; border: #6f5b42 solid 1px; color: white; }
