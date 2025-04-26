@@ -178,3 +178,6 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .bigl { border-top-width: 15px; border-top-style: solid; border-top-color: #343434; margin-bottom: 150px; }
 .loginlink { color: white; background-color: #6f5b42; border: #6f5b42 solid 1px; border-radius: 3px; }
 .loginlink:hover { background-color: #dd9c4e; border: #dd9c4e solid 1px; color: white; }
+.bsliderh1 { font-size: 35px; background-color: #00000063; margin-bottom: 65px; }
+.vslidercontent { font-size: 25px; background-color: #93939363; }
+.bsliderh1, .vslidercontent { bottom: 0; position: absolute; margin-left: 5%; padding: 5px; }
