@@ -181,3 +181,4 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .bsliderh1 { font-size: 25px; background-color: #818f9bd4; color: #ffffff; outline: #c6e5e5 1px solid; margin-bottom: 30px; }
 .vslidercontent { font-size: 15px; background-color: #93939363; }
 .bsliderh1, .vslidercontent { bottom: 0; margin-right: 25px; right: 0; position: absolute; padding: 8px; }
+.bsliderh1:hover { background-color: #91a2afd4; }
