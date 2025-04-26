@@ -180,4 +180,4 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .loginlink:hover { background-color: #dd9c4e; border: #dd9c4e solid 1px; color: white; }
 .bsliderh1 { font-size: 35px; background-color: #00000063; margin-bottom: 65px; }
 .vslidercontent { font-size: 25px; background-color: #93939363; }
-.bsliderh1, .vslidercontent { bottom: 0; position: absolute; margin-left: 5%; padding: 5px; }
+.bsliderh1, .vslidercontent { bottom: 0; right: 0;position : absolute; padding: 5px; }
