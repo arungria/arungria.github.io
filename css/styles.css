@@ -12,7 +12,7 @@ a[href^="https://x.com"]:after, a[href^="https://arungria.github.io/assets"]:aft
 body { font-family: "Libre Franklin", "Helvetica Light", Helvetica, "Droid Sans", Arial, Arial Unicode MS, sans-serif; font-size: 20px; word-wrap: break-word; hyphens: auto; }
 h1, h2, h3, h4, h5 { cursor: default; font-family: -apple-system,BlinkMacSystemFont,"EB Garamond","Helvetica Neue",Roboto,"Segoe UI",Helvetica,Arial,"Noto Sans","Arial Unicode","Arial Unicode MS",sans-serif; }
 h1 { margin-top: 10px; hyphens: none; }
-h2 { font-size: 31px; text-align: left; margin-top: 60px; color: #b39771c9; }
+h2 { font-size: 31px; text-align: left; margin-top: 60px; color: #554836c9; }
 h3 { color: #333333; font-size: 20px; margin-top: 50px; }
 h1, h4, a.resourcesuniversity, a.resourcesuniversity:hover, a.resourcesteachers, a.resourcesteachers:hover { color: #bebebe; font-weight: 100; }
 h5 { color: #FFFFFF; font-size: 25px; font-weight: 200; padding-left: 10px; }
