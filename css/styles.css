@@ -16,6 +16,7 @@ h2 { font-size: 31px; text-align: left; margin-top: 60px; }
 h3 { color: #333333; font-size: 20px; margin-top: 50px; }
 h1, h4, a.resourcesuniversity, a.resourcesuniversity:hover, a.resourcesteachers, a.resourcesteachers:hover { color: #bebebe; font-weight: 100; }
 h5 { color: #FFFFFF; font-size: 25px; font-weight: 200; padding-left: 10px; }
+.h2sub { text-transform: uppercase; margin-bottom: 10px; font-size: 20px; font-family: 'Libre Franklin'; font-weight: 600; background-color: #f1f1f1; padding: 10px; }
 strong { font-weight:600; }
 /*
 If we want the main title (picture) to be shown again, just edit the display part below.
