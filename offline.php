@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8"><title>English Studies | studies.cat</title>
+<link rel="shortcut icon" href="apps/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<style type="text/css">
+@media only screen and (max-width: 760px) {
+	.headerwebdesc {display: none; }
+	}
+@media only screen and (min-width: 760px) {
+	.headerwebdesc {display: block; }
+	}
+body {
+	font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Roboto,"Segoe UI",Helvetica,Arial,"Noto Sans","Arial Unicode","Arial Unicode MS",sans-serif;
+	background-color: #666666;
+	font-size: 18px;
+}
+a { color: #0085B0; text-decoration: none; }
+a:hover { color: #00A2D7; text-decoration: none; }
+#wrapper {
+	clear: both;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	background-color: #CCCCCC;
+	padding-top: 60px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	max-width: 1080px;
+}
+#menu  { position: relative; }
+#logo {
+	background-color: #989898;
+	width: 105px;
+	height: 40px;
+	float: left;
+}
+#header {
+	background-color: #3E3E3E;
+	height: 40px;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	position: absolute;
+}
+#footer { font-size: 12px; clear: both; padding-top: 30px; }
+.langbox {
+	border-bottom: 1px dotted #666666;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	min-height: 100px;
+}
+.languageName { color: #666666; text-transform: uppercase; font-size: 14px; margin-bottom: -12px; }
+h1 {
+	display: block;
+	font-size: 2em;
+	font-weight: 300;
+}
+.headerwebtitle {
+	color: white;
+	padding-left: 10px;
+	padding-top: 6px;
+	font-size: 20px;
+	float: left;
+}
+.auto-style1 {
+	font-size: x-small;
+	color: #7D7D7D;
+}
+.auto-style2 {
+	color: #7D7D7D;
+}
+.auto-style3 {
+	color: #565656;
+	font-size: 10px;
+}
+#mainnotice {
+	background-color: #DADADA;
+	padding: 10px;
+	margin-bottom: 12px;
+	cursor: default;
+}
+</style></head><body>
+<div id="header">
+  <div id="top">
+  <div id="logo"><a href="https://studies.cat/"><img src="https://arungria.github.io/assets/theme/images/English_Studies_long_logo.png" alt="English Studies"></a></div>
+    <div class="left" id="menu">
+      <div class="headerwebtitle">studies.cat</div>
+      <div class="headerwebtitle headerwebdesc">English Language and Literature Resources</div>
+    </div>
+  </div>
+</div>
+<div id="wrapper">
+  <div id="site">
+    <div id="content">
+      <h1>Sorry, studies.cat is currently offline.</h1>
+<div id="mainnotice"><h3><span class="auto-style1">STATUS</span><br class="auto-style2">
+<span class="auto-style3">This is an expected maintenance update. Please, wait a few minutes.</span></h3></div>
+		<div class="auto-style1"><a href="#cat">CATALÀ</a> | <a href="#en">
+			ENGLISH</a> | <a href="#es">ESPAÑOL</a></div>
+      <div class="langbox">
+        <div class="languageName" id="cat">Català</div>
+        <p>En aquests moments el lloc web es troba fora de línia. Torna-hi a 
+		entrar en uns minuts. Si aquesta situació no es reverteix, si us plau 
+		comprova la disponibilitat del lloc web en temps real o contacta a 
+		través de la utilitat per a més informació.</p></div>
+      <div class="langbox">
+        <div class="languageName" id="en">English</div>
+        <p>This website is currently offline. Please, try again  in a few minutes. If this situation continues, please 
+		check the status and availability of the website or contact us for more 
+		information.</p>
+      </div>
+      <div class="langbox">
+        <div class="languageName" id="es">Español</div>
+        <p>En
+estos momentos el sitio web no se encuentra disponible. Por favor, intenta
+acceder al sitio de nuevo en unos minutos. Si esta situación persiste,
+por favor comprueba el estado del sitio web en tiempo real o contacta a través 
+		de la utilidad para más información.</p>
+      </div>
+    </div>
+    <div id="footer">studies.cat <span class="auto-style3">Creative 
+		Commons License.</span> |
+		<a href="https://twitter.com/arungria" target="_blank">@arungria</a> |
+		<a href="https://blocs.xtec.cat/studies/" target="_blank">Blog</a> |
+		<a href="https://studies.cat/" target="_blank">System Status</a></div>
+  </div>
+</div>
+</body>
+</html>
