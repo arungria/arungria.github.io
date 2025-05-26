@@ -125,7 +125,7 @@ a.pagesPanelNumber:hover { color: #FFFFFF; text-decoration: none; padding-top: 5
 .titleRecommended { background-color: #A2A2A2; }
 .descBox { padding: 20px; line-height: 1.5; }
 .videolink { margin-top: 30px; margin-bottom: 30px; }
-a.videolink { color: #FFF; background-color: #666; text-decoration: none; padding: 20px; text-align: center; margin: 10px; display: inline-block; outline: solid 3px #999999; }
+a.videolink { color: #FFF; background-color: #666; text-decoration: none; padding: 20px; text-align: center; margin: 10px; display: inline-block; border: solid 3px #999999; border-bottom-right-radius: 40px; }
 a.videolink:hover { box-shadow: inset 1px 1px 1px 1px #000; transition-delay: 0s;  transition-property: all; transition-timing-function: ease-out; }
 #overflowx { overflow-x: scroll; }
 #wrapper #site #content .languages ul li { float: left; list-style-type: none; margin-right: 75px; list-style-image: url(https://studies.cat/assets/theme/images/icons/bullet.jpg); margin-bottom: 40px; }
