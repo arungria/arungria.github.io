@@ -183,3 +183,6 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .vslidercontent { font-size: 15px; background-color: #93939363; }
 .bsliderh1, .vslidercontent { bottom: 0; margin-right: 25px; right: 0; position: absolute; padding: 8px; }
 .bsliderh1:hover { background-color: #91a2afd4; }
+.about { font-size:7.0pt; color:#3B3B3B }
+.isbn { font-size:8.5pt; color:#640707 }
+.legalnotice { font-size:6.5pt; }
