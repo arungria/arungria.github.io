@@ -185,4 +185,5 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .bsliderh1:hover { background-color: #91a2afd4; }
 .about { font-size:9.0pt; color:#3B3B3B }
 .isbn { font-size:8.5pt; color:#640707 }
-.bookslegalnotice { font-size:7.5pt; font-weight:600; }
+.legalnotice { font-size:7.5pt; font-weight:600; }
+#sagadesc { background: #f1f1f1; padding: 30px; font-size: 14pt; }
