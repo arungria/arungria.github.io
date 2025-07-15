@@ -74,12 +74,20 @@ a.leftmenu:hover { color: #333333; text-decoration: none; }
 #mainsection .mainsectionmenu { min-width: 33.3%; }
 .mainsectionmenu a.assignments { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; color: #FFFFFF; display: block; }
 .mainsectionmenu a.assignments:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #8e8e8e; color: #FFFFFF; display: block; }
+.mainsectionmenu a.edsec { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; color: #FFFFFF; display: block; background-color: #448f62; }
+.mainsectionmenu a.edsec:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #7ec79b; color: #FFFFFF; display: block; }
+.mainsectionmenu a.universitylang { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; color: #FFFFFF; display: block; background-color: #878f44; }
+.mainsectionmenu a.universitylang:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #c2cb73; color: #FFFFFF; display: block; }
+.mainsectionmenu a.university { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; color: #FFFFFF; display: block; background-color: #8f5c44; }
+.mainsectionmenu a.university:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #d5a188; color: #FFFFFF; display: block; }
+.mainsectionmenu a.books { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; color: #FFFFFF; display: block; background-color: #44708f; }
+.mainsectionmenu a.books:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #74a8cd; color: #FFFFFF; display: block; }
 .mainsectionmenu a.videos { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #000000; color: #FFFFFF; display: block; }
 .mainsectionmenu a.videos:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #0F0F0F; color: #FFFFFF; display: block; }
 .mainsectionmenu a.help { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #D25400; color: #FFFFFF; display: block; }
 .mainsectionmenu a.help:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #B34700; color: #FFFFFF; display: block; }
 article { margin-top: 20px; margin-left: auto; margin-right: auto; }
-#mainsection { background-color: #999999; }
+#mainsection { background-color: #999999; margin-bottom: 150px }
 .notification { margin-right: auto; margin-left: auto; padding: 15px; margin-top: 10px; margin-bottom: 20px; border: 1px dotted #CCCCCC; background-color: #F4F4F4; }
 .footerlegal { display: inline-block; margin-left: 12px; }
 #globalfooter { padding-top: 20px; padding-bottom: 20px; border-top: 5px solid #989898; color: #fff; margin-bottom: -30px; text-align: center; }
