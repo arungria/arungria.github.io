@@ -87,7 +87,7 @@ a.leftmenu:hover { color: #333333; text-decoration: none; }
 .mainsectionmenu a.help { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #D25400; color: #FFFFFF; display: block; }
 .mainsectionmenu a.help:hover { padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; background-color: #B34700; color: #FFFFFF; display: block; }
 article { margin-top: 20px; margin-left: auto; margin-right: auto; }
-#mainsection { margin-bottom: 150px; float:left; }
+#mainsection { margin-bottom: 20px; float:left; }
 .notification { margin-right: auto; margin-left: auto; padding: 15px; margin-top: 10px; margin-bottom: 20px; border: 1px dotted #CCCCCC; background-color: #F4F4F4; }
 .footerlegal { display: inline-block; margin-left: 12px; }
 #globalfooter { padding-top: 20px; padding-bottom: 20px; border-top: 5px solid #989898; color: #fff; margin-bottom: -30px; text-align: center; }
