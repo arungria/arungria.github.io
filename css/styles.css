@@ -194,4 +194,5 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .isbn { font-size:8.5pt; color:#640707 }
 .legalnotice { font-size:7.5pt; font-weight:600; }
 #sagadesc { background: #f1f1f1; padding: 30px; font-size: 14pt; }
-.highlightedbox { margin: 10px; margin-bottom: 30px; outline: #8c8c8c 1px solid; padding: 10px; background-color: #f9f9f9; }
+.highlightedbox { margin: 10px; margin-bottom: 60px; outline: #8c8c8c 1px solid; padding: 10px; background-color: #f9f9f9; }
+
