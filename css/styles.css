@@ -176,7 +176,7 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .resourcesuniversity img { float: right; max-width: 10%; outline: #664315 4px solid; }
 #websiteproperties { margin-bottom: 30px; }
 #sitemap { text-align: left; margin-left: 14%; }
-#license { clear: both; padding-top: 50px; padding-left: 80px; padding-right: 80px; margin-bottom: 40px; }
+#license { clear: both; padding-top: 50px; padding-left: 50px; padding-right: 50px; margin-bottom: 40px; }
 .ulsec { margin-left: 20px; }
 .ulsection { border-bottom: 1px dotted #646363; }
 #globalfooter ul { float: left; margin-right: 90px; }
@@ -195,3 +195,4 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .legalnotice { font-size:7.5pt; font-weight:600; }
 #sagadesc { background: #f1f1f1; padding: 30px; font-size: 14pt; }
 .highlightedbox { margin: 10px; margin-bottom: 60px; outline: #8c8c8c 1px solid; padding: 10px; background-color: #f9f9f9; }
+
