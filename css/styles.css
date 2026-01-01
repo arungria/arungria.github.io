@@ -26,7 +26,7 @@ If we want the main title (picture) to be shown again, just edit the display par
 #globalfooter, .darkerer { background-color: #3E3E3E; }
 #logo, .brand { float: left; }
 #logo { width: 100px; height: 100px; max-height: 100%; }
-#logo img { max-height: 100%; }
+#logo img { max-height: 100%; position: absolute; width: 110px; }
 #menu ul { list-style-type: none; margin-top: 36px; max-height: 1%; }
 #menu ul li { float: left; margin-left: 13px; }
 ::-moz-selection { background: #3E3E3E; color: #FFFFFF; text-shadow: 0px 0px 2px #000; }
