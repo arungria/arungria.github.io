@@ -25,7 +25,7 @@ If we want the main title (picture) to be shown again, just edit the display par
 #logo, .brand, .titleFeatured, .mainsectionmenu a.assignments, a.mainmenu:hover, a.mainmenu:active, #mobileLogo, #fixnotice, a.videolink:hover, .mobileMenuScroller, a.pagesPanelNumber:hover { background-color: #989898; }
 #globalfooter, .darkerer { background-color: #3E3E3E; }
 #logo, .brand { float: left; }
-#logo { width: 100px; height: 100px; max-height: 100%; }
+#logo { width: 100px; height: 100px; max-height: 100%; margin-right: 30px; }
 #logo img { max-height: 100%; position: absolute; width: 116px; }
 #menu ul { list-style-type: none; margin-top: 36px; max-height: 1%; }
 #menu ul li { float: left; margin-left: 13px; }
@@ -196,4 +196,5 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 #sagadesc { background: #f1f1f1; padding: 30px; font-size: 14pt; }
 .highlightedbox { margin: 10px; margin-bottom: 60px; outline: #8c8c8c 1px solid; padding: 10px; background-color: #f9f9f9; }
 .footertrademarks {	margin-left: 50px; margin-right: 50px; }
+
 
