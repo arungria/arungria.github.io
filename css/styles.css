@@ -38,7 +38,7 @@ a { color: #909090; text-decoration: none; }
 a:hover { color: #b7b7b7; text-decoration: none; }
 a.inheritlinkcolour { color: inherit; text-decoration: none; }
 a.mainmenu { background-color: #333333; color: #FFFFFF; text-decoration: none; border: 2px solid #9c9c9c; -webkit-box-shadow: 3px 2px 0 -1px #9c9c9c; border-radius: 4px; }
-a.mainmenu:hover { color: #FFFFFF; text-decoration: none; box-shadow: inset 3px 3px 3px #101010; padding-left: 8px; padding-top: 8px; }
+a.mainmenu:hover { color: #FFFFFF; text-decoration: none; box-shadow: inset 3px 3px 3px #101010; padding-left: 8px; }
 a.mainmenu:active { color: #FFFFFF; text-decoration: none; }
 a.leftmenu { color: #FFFFFF; text-decoration: none; }
 a.leftmenu:hover { color: #333333; text-decoration: none; }
@@ -196,3 +196,4 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 #sagadesc { background: #f1f1f1; padding: 30px; font-size: 14pt; }
 .highlightedbox { margin: 10px; margin-bottom: 60px; outline: #8c8c8c 1px solid; padding: 10px; background-color: #f9f9f9; }
 .footertrademarks {	margin-left: 50px; margin-right: 50px; }
+
