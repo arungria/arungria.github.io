@@ -1,0 +1,6 @@
+Title: El oscuro silencio de la memoria
+Author: Mary Elizabeth Baskerville
+Algorithm: SHA-256
+Hash (main page): 818e7b03ba43c0da80ce3a891e335fbdcd194af019ed396f76dbd1b2a345a3cd
+Hash (contents): cdc45d2ecd3cae744c4d7c50e1f16fb41ef78ed4759e63bbb0aa72fc9ea07ae7
+Generation date: 24/02/2026
