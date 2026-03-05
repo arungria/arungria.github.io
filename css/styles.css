@@ -186,7 +186,7 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .bigl { border-top-width: 15px; border-top-style: solid; border-top-color: #343434; margin-top: 150px; }
 .loginlink { color: white; background-color: #6f5b42; border: #6f5b42 solid 1px; border-radius: 3px; }
 .loginlink:hover { background-color: #dd9c4e; border: #dd9c4e solid 1px; color: white; }
-.bsliderh1 { background-color: #ffffff78; color: #000000a6; outline: #c6e5e5 1px solid; margin-bottom: 30px; }
+.bsliderh1 { background-color: #ffffff78; color: #000000a6; outline: #c6e5e5 1px solid; margin-bottom: 30px; font-weight: 600; color: #ffffff; }
 .vslidercontent { font-size: 15px; background-color: #93939363; }
 .bsliderh1, .vslidercontent { bottom: 0; margin-right: 25px; right: 0; position: absolute; padding: 8px; }
 .bsliderh1:hover { background-color: #91a2afd4; }
