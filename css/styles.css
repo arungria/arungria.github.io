@@ -200,3 +200,5 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .highlightedbox { margin: 10px; margin-bottom: 60px; outline: #8c8c8c 1px solid; padding: 10px; background-color: #f9f9f9; }
 .footertrademarks {	margin-left: 50px; margin-right: 50px; }
 .pemphasize { padding: 50px; }
+.capitalizer { text-transform: uppercase; }
+.bolderer { font-weight: bold; }
