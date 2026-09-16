@@ -2,8 +2,8 @@ Title: L'obscur silenci de la memòria
 Author: Mary Elizabeth Baskerville
 Algorithm: SHA-256
 Hash (main page cover): 43aaa1d275702b852a4bbe0f239e52a3ab6474a501cd22698499e89593425563
-Hash (contents): 9791eacb18f077fd167e02b3996bf3a3328e0aca04f2c86f12c0abdc0b200660
-Generation date: 04/08/2026
+Hash (contents): a6e839d54a7ab8e1ea6bbbb287e24b2d32a2f2a33db22700cb25e87fb84fc0b2
+Generation date: 04/08/2026, 16/09/2026
 
 ············
 
@@ -11,8 +11,8 @@ Title: El oscuro silencio de la memoria
 Author: Mary Elizabeth Baskerville
 Algorithm: SHA-256
 Hash (main page cover): 6e004c1435441ccec206c00d563e9a4d830f39d4bef9f6ffd8b13d3c3d9d2416
-Hash (contents): 3d2794b60ead13608d0ae8a895f2e18966fd8a94dcdc7fbe5b962e1fee1b13bc
-Generation date: 09/03/2026, 04/08/2026
+Hash (contents): af77c653b0466101a80729775a4b825ce936c57812bb8e5a350ca80fb05a831b
+Generation date: 09/03/2026, 04/08/2026, 16/09/2026
 
 ············
 
