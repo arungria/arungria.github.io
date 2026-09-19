@@ -200,7 +200,7 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 .highlightedbox { margin: 10px; margin-bottom: 60px; outline: #8c8c8c 1px solid; padding: 10px; background-color: #f9f9f9; }
 .footertrademarks {	margin-left: 50px; margin-right: 50px; }
 .pemphasize { padding: 40px; position: relative; }
-.pemphasize::before { content: "·············································"; position: absolute; top: 10px; left: 0; right: 0; text-align: center; }
-.pemphasize::after { content: "·············································"; position: absolute; bottom: 10px; left: 0; right: 0; text-align: center; }
+.pemphasize::before { content: "···················································································"; position: absolute; top: 10px; left: 0; right: 0; text-align: center; }
+.pemphasize::after { content: "···················································································"; position: absolute; bottom: 10px; left: 0; right: 0; text-align: center; }
 .capitalizer { text-transform: uppercase; }
 .bolderer { font-weight: bold; }
