@@ -199,8 +199,8 @@ a.smalllink:hover { color: #ffffff; text-decoration: none; padding: 5px; backgro
 #sagadesc { background: #f1f1f1; padding: 30px; font-size: 14pt; }
 .highlightedbox { margin: 10px; margin-bottom: 60px; outline: #8c8c8c 1px solid; padding: 10px; background-color: #f9f9f9; }
 .footertrademarks {	margin-left: 50px; margin-right: 50px; }
-.pemphasize { padding: 40px; position: relative; }
-.pemphasize::before { content: "···················································································"; position: absolute; top: 10px; left: 0; right: 0; text-align: center; }
-.pemphasize::after { content: "···················································································"; position: absolute; bottom: 10px; left: 0; right: 0; text-align: center; }
+.pemphasize { padding: 40px; position: relative; color: #575757; font-family: 'Libre Franklin'; }
+.pemphasize::before { content: "····················"; position: absolute; top: 10px; left: 0; right: 0; text-align: center; color: #c7c7c7; }
+.pemphasize::after { content: "··········"; position: absolute; bottom: 10px; left: 0; right: 0; text-align: center; color: #c7c7c7; }
 .capitalizer { text-transform: uppercase; }
-.bolderer { font-weight: bold; }
+.bolderer { font-weight: 100; }
