@@ -2,8 +2,8 @@ Title: L'obscur silenci de la memòria
 Author: Mary Elizabeth Baskerville
 Algorithm: SHA-256
 Hash (main page cover): 43aaa1d275702b852a4bbe0f239e52a3ab6474a501cd22698499e89593425563
-Hash (contents): a6e839d54a7ab8e1ea6bbbb287e24b2d32a2f2a33db22700cb25e87fb84fc0b2
-Generation date: 04/08/2026, 16/09/2026
+Hash (contents): c8958b5a2894b1b14420c1b60f9e9d7e88ae11bb858b531435f46df7aa1e5739
+Generation date: 04/08/2026, 16/09/2026, 16/11/2026
 
 ············
 
